@@ -19,4 +19,4 @@ This is a Python GUI application built using Tkinter.
    python main.py
 ## Screenshot
 
-![App Screenshot](image.png)
+![App Screenshot](Screenshot (1).png)
