@@ -17,3 +17,6 @@ This is a Python GUI application built using Tkinter.
 1. Install Python
 2. Run the file:
    python main.py
+## Screenshot
+
+![App Screenshot](image.png)
