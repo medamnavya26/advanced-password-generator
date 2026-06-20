@@ -20,3 +20,6 @@ This is a Python GUI application built using Tkinter.
 ## Screenshot
 
 ![App Screenshot](Screenshot2026-04-12103530.png)
+
+Author
+Medam.Navya
